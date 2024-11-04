@@ -6,7 +6,7 @@
 * scipy=1.7.3
 
 ## Usage
-Before running the code, you need to check if the “Models/” directory exists; if not, you need to create it. Then, enter the following command in the terminal to start training the model. The training and testing logs are included in the “History/” directory.
+Before running the code, you need to check if the “Models/” and “History/” directories exist; if not, you need to create it. Then, enter the following command in the terminal to start training the model. The training and testing logs are included in the “History/” directory.
 
 ```
 python Main.py --data programmableweb --ssl1 3 --ssl2 3 --temp 0.5 --reg 3e-8 --edgeSampRate 0.1
