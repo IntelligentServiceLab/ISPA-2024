@@ -20,21 +20,22 @@ python Main.py --data programmableweb --ssl1 3 --ssl2 3 --temp 0.5 --reg 3e-8 --
 
 These are the repository links for the baseline method.
 
-https://github.com/rdz98/bprmf-pytorch
+- https://github.com/rdz98/bprmf-pytorch
 
-https://github.com/gusye1234/LightGCN-PyTorch
+- https://github.com/gusye1234/LightGCN-PyTorch
 
-https://github.com/ruizhang-ai/GMCF_Neural_Graph_Matching_based_Collaborative_Filtering
+- https://github.com/ruizhang-ai/GMCF_Neural_Graph_Matching_based_Collaborative_Filtering
 
-https://github.com/PeiJieSun/diffnet
+- https://github.com/PeiJieSun/diffnet
 
-https://github.com/senllh/DHCF
+- https://github.com/senllh/DHCF
 
-https://github.com/wujcan/SGL-Torch
+- https://github.com/wujcan/SGL-Torch
 
-https://github.com/JiaHongZ/MHCNN
+- https://github.com/JiaHongZ/MHCNN
 
-https://github.com/donalee/BUIR
+- https://github.com/donalee/BUIR
+
 
 ## Achnowledgements
 This work is supported by Educational Commission of Hunan Province of China under Grant No: 23A0359, and Project of Hunan Province Ordinary Higher Education Reform under Grant No. HNJG-2021-0650. The corresponding authors are Yong Xiao, and Guosheng Kang.
