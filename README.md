@@ -1,3 +1,6 @@
+This repository is the Python implementation for the ISPA 2024 accepted paper:
+> Jiexun Shen, Dongfan Li, Wanjun Chen, Yong Xiao, Guosheng Kang, Jianxun Liu, Zhenlian Peng. Multi-view Hypergraph-based Self-supervised Learning Model for Web API Recommendation. International Symposium on Parallel and Distributed Processing with Applications. IEEE Computer Society, 2024.
+
 ## Environment
 
 * python=3.10.4
